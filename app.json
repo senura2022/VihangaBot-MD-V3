@@ -9,7 +9,7 @@
 "WELCOME_AND_GOODBYE" :{
     "description" : "IF YOU NEED TO OFF THIS TYPE : false",
     "required" : true,
-  "value" : "true"
+  "value" : "false"
     },
   
         "AUTO_BIO" :{
@@ -38,13 +38,13 @@
                                         "ANTILINK" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
         
 "GROUP_ONLY_MSG" :{
     "description" : "TYPE ONLY GROUP MSG",
     "required" : true,
-  "value" : "*Sorry... Bot Is Only Work In Group*\n\n*https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf*"
+  "value" : "*Sorry... Bot Is Only Work In Group**"
     },
         
         "WELCOME_MSG" :{
@@ -62,19 +62,19 @@
         "ALIVE_MSG" :{
     "description" : "TYPE ALIVE MSG",
     "required" : true,
-  "value" : "*IM ALIVE NOW*"
+  "value" : "*IM online NOW*"
     },
         
 "CALL_BLOCK" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
       
 "AUTO_BLOCK212" :{
     "description" : "IF YOU NEED TO ON THIS TYPE : true",
     "required" : true,
-  "value" : "false"
+  "value" : "true"
     },
       
 "onlygroup" :{
@@ -98,37 +98,38 @@
 "REACT_NUMBER" :{
     "description" : "TYPE OWNER NUMBER TO OWNER REACT",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "94774154414"
     },
       
 "OWNER_NUMBER" :{
     "description" : "TYPE OWNER NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "94774154414"
     },
       
 "OWNER_NUMBER2" :{
     "description" : "TYPE ANY NUMBER",
     "required" : true,
-  "value" : "947634278433"
+  "value" : "no number"
     },
     
 "BOT_NAME" :{
     "description" : "TYPE BOT NAME",
     "required" : true,
-  "value" : "𝐕𝐈𝐇𝐀𝐍𝐆𝐀 𝐌𝐃"
+  "value" : "🤟😉𝗦𝗲𝗻𝘂𝗿𝗮😉🤟
+"
     },
       
 "OWNER_NAME" :{
     "description" : "TYPE OWNER NAME",
     "required" : true,
-  "value" : "ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ"
+  "value" : "🤟😉𝗦𝗲𝗻𝘂𝗿𝗮😉🤟"
     },
       
 "GROUP_LINK" :{
     "description" : "TYPE GROUP LINK",
     "required" : true,
-  "value" : "https://chat.whatsapp.com/GJ9bAPxYpktAnqbXVsnRuf"
+  "value" : "https://chat.whatsapp.com/CAmksejltXUFbiASH2EiYb"
 },
       
   "GROUP_LINK2" :{
@@ -140,25 +141,25 @@
 "PACK_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "STICKER BY VIHANGA MD"
+  "value" : "Coded By 🤟😉𝗦𝗲𝗻𝘂𝗿𝗮😉🤟Official Crew for LK"
 },
   
 "CAP_NAME" :{
     "description" : "TYPE ANY NAME",
     "required" : true,
-  "value" : "*BY VIHANGA MD*"
+  "value" : "Coded By 🤟😉𝗦𝗲𝗻𝘂𝗿𝗮😉🤟Official Crew for LK"
 },
     
 "IMG_URL" :{
     "description" : "UPLOAD YOURE PHOTO TO IMGBB AND TYPE URL",
     "required" : true,
-  "value" : "https://telegra.ph/file/88d6fdeff08bbc4945901.jpg"
+  "value" : "https://i.ibb.co/pwwrkn7/e755eda0-fe31-404f-9e40-0a3e869e3aa9.jpg"
 },
   
   "YT_URL" :{
     "description" : "IF U HAVE YT CHANNEL TYPE URL",
     "required" : true,
-    "value" :"https://youtu.be/Z9rIR0Vopb8"
+    "value" :"https://www.youtube.com/channel/UCkFbr_YT8nt8NbKtMDJJUrA"
     }
     },
   
