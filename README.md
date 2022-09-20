@@ -14,7 +14,16 @@
      > add advanced yt down cmd. [.ytdl]
      > and more...
     
-   
+
+    [©] Vihanga MD V4 Upcoming Features[Not Relesed]
+
+     > Playstore Apk Downloder
+     > Playstore Apk searcher
+     > Auto Voice rp [On/Off]
+     > Auto msg rp [On/Off]
+     > Auto sticker rp [On/Off]
+     > Bot is not working some times fixed.
+     > and more...
    
    
    
@@ -50,7 +59,7 @@
  
  ## My Website : [Click Heare](https://sites.google.com/view/vihangabot-md/vihangamd)
 
-1. Click [SCAN](https://replit.com/@DGXeon/Cheems-Bot-Multi-Device-Qr-Code-Generator?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
+1. Click [SCAN](https://replit.com/@VIHANGA-YTYT/Vihanga-MD-V2-Qr?output%20only=1&lite=1#index.js) and scan QR through Whatsapp Linked Devices Option in Your WhatsApp App.
 
 2. Click [FORK](https://github.com/vihangayt0/VihangaBot-MD-V3/fork)
 
